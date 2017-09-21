@@ -8,7 +8,7 @@
 	// header('Location: '.$uri.'/dashboard/');
 	// exit;
 
-@ajhgjhhgjhghjgjh
+@ajhgjhhgjhghjgjh fixed
 
 $servername = "localhost";
 $username = "root";
